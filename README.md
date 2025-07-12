@@ -1,2 +1,1 @@
-# pdf-to-txt-
-converts pdf files into txt file
+converts files containing bengali and english into text files
